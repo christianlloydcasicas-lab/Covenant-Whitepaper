@@ -19,9 +19,9 @@ Covenant functions as an automated family sovereign fund split into three sequen
 Our core multi-sig architecture is open-source, fully compiled, and verified live across multiple test networks:
 
 * **Ethereum Sepolia Deployment Layer (Chain ID: 11155111)**
-  * Verified Integration Address: `0x7cD133da9Ebc1393b826973595C5750A8E6092c5`
+  * Verified Integration Address: `0x8D25a7396b2e7888bD2Aca0f57BfA139C464A3BA`
 * **Base Sepolia Deployment Layer (Chain ID: 84532)**
-  * Verified Integration Address: `0x7cD133da9Ebc1393b826973595C5750A8E6092c5` 
+  * Verified Integration Address: `0x1565403F107CC08e5cf59235347D1C2fEcbEeFe9` 
 
 
 ---
