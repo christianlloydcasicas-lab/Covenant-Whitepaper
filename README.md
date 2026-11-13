@@ -58,7 +58,7 @@ All four are verified on Blockscout. Earlier versions (v1, v2, v3) are listed in
 Requires [Foundry](https://getfoundry.sh).
 
 ```bash
-git clone --recurse-submodules <this-repo-url>
+git clone --recurse-submodules https://github.com/christianlloydcasicas-lab/covenant-protocol.git
 cd covenant-protocol          # or the folder name you cloned into
 forge install                 # if the lib/ folder is empty
 forge test                    # 74 tests
